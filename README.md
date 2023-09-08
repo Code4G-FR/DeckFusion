@@ -40,6 +40,8 @@ DeckFusion est un outil de fusion d'images permettant de combiner plusieurs cart
 
 MIT
 
+---
+
 # DeckFusion
 
 *English version*
